@@ -1,0 +1,22 @@
+{
+  "name": "@creatrix/regExp",
+  "version": "1.0.0",
+  "description": "Javacript RegExp for username and phone",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/creatrixlb/regExp.git"
+  },
+  "keywords": [
+    "regExp"
+  ],
+  "author": "Creatrix Digital Agency <developers@creatrix-lb.com> (https://creatrix-lb.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creatrixlb/common/issues"
+  },
+  "homepage": "https://github.com/creatrixlb/regExp#readme"
+}
